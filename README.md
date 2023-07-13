@@ -1,3 +1,13 @@
+Topic:
+Detection for fraud credit card transactions
+The propose of this project is to train and test the model to with different classifiers to examine the accuracy and performance each of them.
+
+Used Dataset:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Cited:
+Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
+
 Instructions of running the code:
 1.	Upload the dataset ‘creditcard.csv’ into the workspace. (Huge dataset would take some time)
 2.	Run each section in. ipynb file from the top to bottom.
