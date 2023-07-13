@@ -22,6 +22,8 @@ Summary:
 	First, we explore the dataset, and check the missing values, duplicated rows as well. 
 The second step, we are standardizing the chosen features ‘Amount’ and ‘Time’. The change only occurred in axis values; the shapes of distribution remain the same.
 	We are conducting three classification algorithms to get the accuracy one by one. ROC curve can examine the TPR an FPR inside our model. (Decision Tree in this case)
+
+![Logo Image](.image.png)
  
 --- 
  
